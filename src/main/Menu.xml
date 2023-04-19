@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe id="1">
+        <name>Spaghetti Bolognese</name>
+        <ingredients>  
+            <ingredient name="beef" quantity="500" type="Viande" unit="g" size="1*3"/>
+            <ingredient name="onion" quantity="1" type="FL" unit="" size="1*1"/>
+            <ingredient name="garlic" quantity="2" type="FL" unit="g" size="1*1"/>
+            <ingredient name="tomato" quantity="1" type="FL" unit="" size="1*1"/>
+        </ingredients>
+    </recipe>
+    <recipe id="2">
+        <name>Chocolate Cake</name>
+        <ingredients> 
+            <ingredient name="eggs" quantity="2" type="Autre" unit="" size="1*2"/>
+            <ingredient name="milk" quantity="100" type="Bouteilles" unit="g" size="1*4"/>            
+        </ingredients>
+    </recipe>
+    <recipe id="3">
+        <name>Jus Cake</name>
+        <ingredients> 
+            <ingredient name="eggs" quantity="2" type="Autre" unit="" size="1*2"/>
+            <ingredient name="milk" quantity="100" type="Bouteilles" unit="g" size="1*4"/>
+            <ingredient name="Jus" quantity="100" type="Bouteilles" unit="g" size="1*4"/>              
+        </ingredients>
+    </recipe>
+</recipes>

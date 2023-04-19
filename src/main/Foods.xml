@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<foods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="foods.xsd">
+    <food name="garlic" quantity="18.0" size="1*1" type="FL" unit="g"/>
+    <food name="eggs" quantity="128.0" size="1*2" type="Autre" unit=""/>
+    <food name="test" quantity="1.0" size="1*2" type="Autre" unit="L"/>
+    <food name="milk" quantity="405.0" size="1*4" type="Bouteilles" unit="g"/>    
+    <food name="tomato" quantity="2.0" size="2*2" type="FL" unit=""/>
+
+</foods>

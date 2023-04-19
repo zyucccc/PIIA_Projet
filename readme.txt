@@ -1,0 +1,2 @@
+Les ingrédients restants dans le réfrigérateur de notre interface sont stockés dans le fichier Foods.xml.
+Il est donc possible pour notre interface d'avoir une réfrigérateur vide au démarrage, mais nous ne l'avons pas fait, nous avons pré-rempli le fichier xml avec quelques ingrédients, ceci afin de vous donner une meilleure vue du fonctionnement de notre interface et de la gestion des ingrédients restants dans le réfrigérateur.
